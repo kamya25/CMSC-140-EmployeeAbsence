@@ -1,0 +1,11 @@
+EMPLOYEE ABSENCE REPORT
+employee ID	days Absent
+    1234           3
+      22           0
+     667           5
+       4          11
+    9876           1
+The 5 employees were absent a total of 20 days.
+The average number of absent is 4.0 days
+Thank you for testing my program!!
+Programmer: Kamyavalli Mopidevi.
